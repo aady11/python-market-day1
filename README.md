@@ -13,3 +13,6 @@ I am learning python by building real market-related logic instead of only watch
 
 ## Output 
 The program prints whether the stock price is failing or stable
+
+## Status
+Day-1 completed. Project will evolve into an AI-based market warning system
